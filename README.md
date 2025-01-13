@@ -69,3 +69,5 @@ Retrieving information on all employees that made login attempts. Performing an 
 on the employees and log_in_attempts tables linking them on the common username column
 
 ![image](https://github.com/user-attachments/assets/4c5dee19-845f-4f91-9cdc-e5369ec35a75)
+
+End of Lab
