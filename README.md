@@ -1,6 +1,6 @@
 # PROJECT NAME
 
-Investigating Unusual Logins, Gathering Employee Data
+Investigating Unusual Logins, Assembled Employee Data
 
 ## Objective
 
